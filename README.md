@@ -7,7 +7,7 @@
 | Office Hours | [Calendly](https://calendly.com/bilene/office-meeting) <br> M 2:30-4pm, F 9-10:30am |
 | GitHub | [ernbilen](https://github.com/ernbilen) |
 
-* **Meeting day/time**: Sec1: T-F 1-2:45am <br> Sec2: T-F 3-4:15am, Althouse 204
+* **Meeting day/time**: Sec1: T-F 1-2:45am; Sec2: T-F 3-4:15am, Althouse 204
 * Office hours also available by appointment.
 * **QRA:** Melanie Nguyen [nguyenqm@dickinson.edu](mailto:nguyenqm@dickinson.edu)
 * **QRA Office Hours:** TBA
