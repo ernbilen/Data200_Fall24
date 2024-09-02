@@ -9,7 +9,7 @@
 
 * **Meeting day/time**: Sec1: T-F 1-2:45am; Sec2: T-F 3-4:15am @Althouse 204
 * Office hours also available by appointment.
-* **QRA:** Melanie Nguyen [nguyenqm@dickinson.edu](mailto:nguyenqm@dickinson.edu)
+* **QRA:** Margaret Nguyen [nguyemar@dickinson.edu](mailto:nguyemar@dickinson.edu)
 * **QRA Office Hours:** TBA
 
 ## Course description ##
