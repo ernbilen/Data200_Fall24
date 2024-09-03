@@ -9,7 +9,7 @@ format:
     theme: [default,custom.scss]
     incremental: false
     logo: "assets/dickinson_logo.jpg"
-    footer: "[https://ernbilen.github.io](https://ernbilen.github.io)"
+    footer: "[github.com/ernbilen/Data200_Fall24](https://github.com/ernbilen/Data200_Fall24)"
     fontsize: 2em
     highlight-style: github
     slide-number: c/t
