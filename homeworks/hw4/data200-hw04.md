@@ -4,7 +4,7 @@
 # Homework 4: Pandas Operations
 
 **Dickinson College**<br/>
-<font color='red'>**Due Date and Time:** Sunday, 10/13/2023, 11:59p </font>
+<font color='red'>**Due Date and Time:** Sunday, 10/13/2024, 11:59p </font>
 ---
 Please enter your name in the markdown cell below.
 
