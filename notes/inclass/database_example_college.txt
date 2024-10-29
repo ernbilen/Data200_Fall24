@@ -1,0 +1,87 @@
+****************** IN-CLASS EXAMPLE OF A COLLEGE DATABASE ************************************
+
+courseid, code, num, name, prereq, description, attributes, grading_mode, credit, cap, everysemester
+227, DATA, 200, DATA 180; COMP130/132, The course is about bla., Data, standard, 1, 24, 1
+
+
+
+
+courses (course catalog)
+primary key: courseid
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+classid, courseid, code, num, name, instructor, meetingtimeday, enrollment, semester, section
+21229, 227, DATA, 200, Eren Bilen, T-F 1:30, 21, Fall 24, 1
+21230, 227, DATA, 200, Eren Bilen, T-F 3:00, 13, Fall 24, 2
+
+
+
+
+
+classes
+primary key: classid
+foreign key: courseid
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+studentid, firstname, lastname, majors, year, address, emergencyphone, GPA, advisors
+9002584, John, Smith, DATA; MATH, Sophomore, 123 S St., 7177779000, 4.0, Mary Anderson
+
+
+students
+primary key: studentid
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+studentid, firstname, lastname, dormitory, room
+9002584, John, Smith, Goodyear, 12
+
+
+student_accommodation
+primary key: studentid
+
+-------------------------------------------------------------------------------------------------------
+
+
+instructorid, firstname, lastname, department, office, address, title
+777,	Eren,	Bilen,	Data Analytics,	Althouse 104, 123 S St.,	Assistant Professor
+
+
+instructors
+
+
+--------------
+
+
+
+studentid, classid, semester
+9002584, 21230, Fall 24
+9002584, 21600, Fall 24
+9002584, 20299, Fall 24
+9002584, 21121, Fall 24
+
+
+enrollment (junction table)
+
+
+--------------------------------
+
+
+instructorid, studentid
+777, 9002584
+777, 9001112
+777, 9008879
+777, 9001018
+777, 9009998
+777, 9007887
+
+
+instructors_advisees (junction table)
