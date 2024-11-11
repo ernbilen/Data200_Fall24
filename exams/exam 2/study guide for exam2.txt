@@ -48,6 +48,6 @@ There is no real need for both a left and right join (why?)
 How to emulate an outer join using UNION (many DBMS don’t have an outer join)
 Using a subquery combined with IN
 Given a relational database given (such as school.db), write a query with join statements that returns a desired 
-output table (hw6 is very relevant for this one.)
+output table (hw6 is very relevant for practicing such tasks.)
 
 
