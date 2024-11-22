@@ -1,0 +1,22 @@
+<menu>
+<food price="5.95" calories="650">
+<name>Belgian Waffles</name>
+<description>Two of our famous Belgian Waffles with maple syrup</description>
+</food>
+<food price="7.95" calories="900">
+<name>Strawberry Belgian Waffles</name>
+<description>Light Belgian waffles covered with strawberries</description>
+</food>
+<food price="8.95" calories="900">
+<name>Berry-Berry Belgian Waffles</name>
+<description>Light Belgian waffles covered with fresh berries</description>
+</food>
+<food price="4.5" calories="600">
+<name>French Toast</name>
+<description>Thick slices made from our homemade sourdough bread</description>
+</food>
+<food price="6.95" calories="950">
+<name>Homestyle Breakfast</name>
+<description>Two eggs, bacon, toast, and hash browns</description>
+</food>
+</menu>
