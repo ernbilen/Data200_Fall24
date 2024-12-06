@@ -11,6 +11,7 @@
 * Office hours also available by appointment.
 * **QRA:** Margaret Nguyen [nguyemar@dickinson.edu](mailto:nguyemar@dickinson.edu)
 * **QRA Office Hours:** TBA
+* **Course eval:** [https://dickinson.campuslabs.com/eval-home/](https://dickinson.campuslabs.com/eval-home/)
 
 ## Course description ##
 
